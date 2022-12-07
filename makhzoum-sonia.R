@@ -1,3 +1,3 @@
 #mercredi 7 décembre
-#Année 2022
-#Paris
+#année 2022
+#paris
